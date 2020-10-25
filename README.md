@@ -5,7 +5,7 @@
 #### Steps taken
 * Extracted the data to MYSQL and cleaned the data with the help of sql queries.
 * Connected it to Tableau.
-* Created a dashboard showing the revenue trend over years, top revenue generating markets of cities in every zone,the channels through which the customers are purchasing, highest profit generating cutomers and products.
+* Created a dashboard showing the revenue trend over years, top revenue generating markets of cities in every zone,the channels through which the customers are purchasing, highest profit generating cutomers, products and their contribution to the overall revenue
 
 ## Tools 
 * Mysql
